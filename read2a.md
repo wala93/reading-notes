@@ -58,7 +58,7 @@ You can indicate emphasis with bold, italic, or strikethrough text.
 
 
 *************************************************************************************************************************************************************************
-[click to go reading-note](https://github.com/wala93/reading-notes/)
+
 
 
 
