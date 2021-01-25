@@ -32,6 +32,9 @@ Perseverance, gumption traps, and maintaining a growth mindset :
  
  
  
+ 'This is by _Wala_Alomari_
+ 
+ 
  
 
 
