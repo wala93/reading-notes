@@ -8,11 +8,11 @@ In a growth mindset, people believe that their most basic abilities can be devel
 ##  How to keep yourself in a growth mindset ?
 Perseverance, gumption traps, and maintaining a growth mindset :
 
-  ## .1. Challenges
+## .1. Challenges
   
- ## .2. Obstacles
+## .2. Obstacles
   
- ## .3. Effort
+## .3. Effort
   
 
  Acknowledge and embrace imperfections.
