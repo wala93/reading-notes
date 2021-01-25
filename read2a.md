@@ -6,6 +6,8 @@ You can use Markdown most places around GitHub:
 -Gists
 -Comments in Issues and Pull Requests
 -Files with the .md or .markdown extension
+***************************************************************************************************
+
 
 ## Examples
 -Text 
@@ -13,6 +15,9 @@ You can use Markdown most places around GitHub:
 -Lists 
 
 -Images 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+ 
 
 -Headers & Quotes 
 
@@ -22,6 +27,9 @@ Headers:
  ###### This is an <h6> tag
 
 -Code Extras
+
+I think you should use an
+`<addr>` element here instead.
 
 ********************************************************************************************
 GitHub Flavored Markdown
@@ -41,6 +49,8 @@ GITHUB HELP YOU TO DO YOUR WEBPAGE WITHOUT ****ANY CODE ****
 #Basic writing and formatting syntax:
 
  Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+ Styling text
+You can indicate emphasis with bold, italic, or strikethrough text.
 
 
 ************************************************************************************************************************************************
