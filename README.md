@@ -34,6 +34,7 @@ Perseverance, gumption traps, and maintaining a growth mindset :
  
  
  
+ 
  [Inspiring Quotes on the Power](https://theartofliving.com/growth-mindset-quotes/)
  
  
@@ -42,7 +43,10 @@ Perseverance, gumption traps, and maintaining a growth mindset :
  
  
  
- 'This is by _Wala_Alomari_  :smile: '
+ 'This is by _Wala_Alomari_'  :smile:
+ **********************************************************************************************************
+
+
  
  
  
