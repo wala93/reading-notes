@@ -22,6 +22,10 @@ Perseverance, gumption traps, and maintaining a growth mindset :
  There’s no one-size-fits-all model for learning. What works for one person may not work for you. Learn about learning strategies.
  Follow the research on brain plasticity.
  The brain isn’t fixed; the mind shouldn’t be either.
+ 
+ 
+ 
+ 
 
 
 
