@@ -1,4 +1,4 @@
-# _reading-notes_
+# _Reading-notes_
 
 # Growth mindset
 In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.
@@ -28,11 +28,21 @@ Perseverance, gumption traps, and maintaining a growth mindset :
  And always remember this cuotations:
  
  > A journey of thousand begins with a step
+ 
  > Your limitation it’s only your imagination
  
  
  
- 'This is by _Wala_Alomari_
+ 
+ [Inspiring Quotes on the Power](https://theartofliving.com/growth-mindset-quotes/)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ' This is by _Wala_Alomari_ :smile: '
  
  
  
