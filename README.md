@@ -23,6 +23,11 @@ Perseverance, gumption traps, and maintaining a growth mindset :
  Follow the research on brain plasticity.
  The brain isn’t fixed; the mind shouldn’t be either.
  
+ And always remember this cuotations:
+ 
+ > A journey of thousand begins with a step
+ > Your limitation it’s only your imagination
+ 
  
  
  
