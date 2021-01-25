@@ -36,9 +36,11 @@ Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
 # IMPORTANT TO REMEMBER 
 GITHUB HELP YOU TO DO YOUR WEBPAGE WITHOUT ****ANY CODE ****
+***************************************************************************************************************************************
 
-Basic writing and formatting syntax
-Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+#Basic writing and formatting syntax:
+
+ Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
 
 
