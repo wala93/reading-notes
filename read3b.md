@@ -1,12 +1,51 @@
-#Structure
-HTML Describes
-the Structure
-of Pages
-In the browser window you can see a web page that features exactly
-the same content as the Word document you met on the page 18. To
-describe the structure of a web page, we add code to the words we want
-to appear on the page.
+# Structure
+ HTML Describes
+ the Structure
+ of Pages
+ In the browser window you can see a web page that features exactly
+ the same content as the Word document you met on the page 18. To
+ describe the structure of a web page, we add code to the words we want
+ to appear on the page.
+ 
+ *****************************************************************************************************************************************************************************
+# Extra Markup
 
+Since the web was first created, there have
+been several different versions of HTML.
+In 1998, a language called XML
+was published. Its purpose
+was to allow people to write
+new markup languages.
+
+# DOCTYPEs
+Because there have been
+several versions of HTML, each
+web page should begin with a
+DOCTYPE declaration to tell a
+browser which version of HTML
+the page is using
+
+
+
+<!-- -->
+If you want to add a comment
+to your code that will not be
+visible in the user's browser, you
+can add the text between these
+characters.
+
+
+# ID Attribute
+
+Every HTML element can carry
+the id attribute. It is used to
+uniquely identify that element
+from other elements on the
+page. 
+
+
+
+***********************************************************************************************************************************************************************
 
 
 
