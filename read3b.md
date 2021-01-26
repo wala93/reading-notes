@@ -1,3 +1,18 @@
+#Structure
+HTML Describes
+the Structure
+of Pages
+In the browser window you can see a web page that features exactly
+the same content as the Word document you met on the page 18. To
+describe the structure of a web page, we add code to the words we want
+to appear on the page.
+
+
+
+
+
+
+
 # HTML layout
 
 HTML5 is introducing a new set of
