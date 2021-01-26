@@ -8,7 +8,6 @@ subject to change but it is already widely being used by web
 developers and it is likely that you will want to use them
 
 ******************************************************************************************************************************************************************************
-.
 Traditional HTML
 Layouts
 For a long time, web page authors used <div> elements to group
@@ -22,7 +21,7 @@ parts of a page. The names of these elements indicate the kind of content
 you will find in them. They are still subject to change, but that has not
 stopped many web page authors using them already.
 
-***********************************************************************************************************************************************************************************
+*********************************************************************************************************************************************************************************
 
  The <header> and <footer>
  elements can be used for:
@@ -37,35 +36,35 @@ stopped many web page authors using them already.
  
  
  Navigation
- <nav>
+  -<nav>
  The <nav> element is used to
  contain the major navigational
  blocks on the site such as the
  primary site navigation.
  
  
- <article>
+- <article>
  The <article> element acts as
  a container for any section of a
  page that could stand alone and
  potentially be syndicated.
 
 
-<aside>
+-<aside>
  TheThe <aside> element has two
  purposes, depending on whether
  it is inside an <article>
  element or not.
  
  
- <section>
+ -<section>
  The <section> element groups
  related content together, and
  typically each section would
  have its own heading.
  
  
- <hgroup>
+- <hgroup>
  The purpose of the <hgroup>
 element is to group together a
 set of one or more <h1> through
@@ -75,7 +74,7 @@ treated as one single heading.
 
 
 Figures
-<figure> <figcaption>
+-<figure> <figcaption>
 You already met the <figure>
 element It can be used
 to contain any content that is
