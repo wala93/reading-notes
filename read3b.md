@@ -77,8 +77,7 @@ treated as one single heading.
 Figures
 <figure> <figcaption>
 You already met the <figure>
-element in Chapter 5 when we
-looked at images. It can be used
+element It can be used
 to contain any content that is
 referenced from the main flow of
 an article (not just images.
