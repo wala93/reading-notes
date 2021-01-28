@@ -141,3 +141,17 @@ create a single value from one or more values.
 
 
 
+ASSIGNMENT OPERATORS
+Assign a value to a variable
+color = 'beige';
+The value of co 1 or is now beige.
+ARITHMETIC OPERATORS
+Perform basic math
+area = 3 * 2;
+The value of area is now 6.
+
+STRING OPERATORS
+Combine two strings
+greeting= 'Hi 1 + 'Mol ly';
+The value of greeting is now Hi Molly.
+ 
