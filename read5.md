@@ -46,3 +46,19 @@ this switch statement and to proceed to run any
 subsequent code that appears after it.
 
 
+** like this **
+switch (level) {
+case 'One ':
+title= 'Level 1 ' ;
+break;
+case 'Two':
+tit 1 e = ' Level 2 ' ;
+break;
+case ' Three' :
+title = 'Level 3' ;
+break ;
+default :
+title= 'Test';
+break; 
+
+
